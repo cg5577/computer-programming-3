@@ -1,16 +1,19 @@
-clas CscExample
+class CscExample
 {
-	int questionNo;
-	String category;
-	String text;
+	public int QuestionNo;
+	public String cagtegory;
+	public String text;
+	public void SetQuestionNo()
+	{
+		
+	}
 	
-	public void setQuestionNo()
-	{}
-	
-	public void setCategory()
-	{}
-	
-	public void setText()
-	{}
-	
+	public void SetCatergotry()
+	{
+		
+	}
+	public void String text()
+	{
+		
+	}
 }
